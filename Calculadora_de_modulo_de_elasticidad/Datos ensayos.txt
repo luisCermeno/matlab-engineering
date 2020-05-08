@@ -1,0 +1,69 @@
+ENSAYO 1
+
+ltotal=0.9
+a=0.155
+b=0.155
+
+Ncargasconcentradas=2
+Primera Carga:
+Punto de aplicacion(medido desde extremo izquierdo)=0.02
+Magnitud(N)=17.168
+Segunda Carga:
+Punto de aplicacion(medido desde extremo izquierdo)=0.88
+Magnitud(N)=17.168
+
+Ncargasdistribuidas=0
+
+Ancho(mm)=40
+Espesor(mm)=4
+Deflexion experimentada(mm)=49
+
+
+
+
+
+
+
+
+
+ENSAYO 2
+
+ltotal=0.9
+a=0
+b=0.310
+
+Ncargasconcentradas=1
+Primera Carga:
+Punto de aplicacion(medido desde extremo izquierdo)=0.9
+Magnitud(N)=17.168
+
+
+Ncargasdistribuidas=0
+
+Ancho(mm)=50
+Espesor(mm)=4
+Deflexion experimentada(mm)=45
+
+
+
+
+
+
+
+ENSAYO 3
+
+ltotal=0.9
+a=0.180
+b=0.180
+
+Ncargasconcentradas=1
+Primera Carga:
+Punto de aplicacion(medido desde extremo izquierdo)=0.45
+Magnitud(N)=17.168
+
+
+Ncargasdistribuidas=0
+
+Ancho(mm)=50
+Espesor(mm)=4
+Deflexion experimentada(mm)=22
